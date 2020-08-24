@@ -1,10 +1,5 @@
 ### Hi there 👋
 <p><em>I'm a hobby programmer.　<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></em></p>
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/naviocean/posts.svg)](http://qiita.com/naviocean)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naviocean/contributions.svg)](http://qiita.com/naviocean)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/naviocean/followers.svg)](http://qiita.com/naviocean)
-                
                 
 <!--
 **naviocean/naviocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
