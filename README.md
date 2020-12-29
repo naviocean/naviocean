@@ -3,7 +3,6 @@
 
 ![Duo Li's github stats](https://github-readme-stats.vercel.app/api?username=naviocean&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviocean&layout=compact)
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diced&layout=compact&hide_border=true&theme=vue&bg_color=ffffff" alt="diced's Github Langs">
 <!--
 **naviocean/naviocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
